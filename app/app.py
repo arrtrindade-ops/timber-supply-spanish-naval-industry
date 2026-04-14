@@ -416,12 +416,26 @@ with tab3:
     else:
         st.info("No records with valid coordinates for the current filters.")
 
-    st.subheader("Choropleth map")
+    st.subheader("Choropleth maps")
 
-    total_map_path = base_path / "img" / "maps" / "total_combined_map.html"
+    map_files = {
+        "Total combined map": base_path / "img" / "maps" / "total_combined_map.html",
+        "Species - oak": base_path / "img" / "maps" / "species_oak_map.html",
+        "Species - holm oak": base_path / "img" / "maps" / "species_holm_oak_map.html",
+        "Species - gall oak": base_path / "img" / "maps" / "species_gall_oak_map.html",
+        "Species - pine": base_path / "img" / "maps" / "species_pine_map.html",
+        "Ownership - comunal": base_path / "img" / "maps" / "ownership_comunal_map.html",
+        "Ownership - noble estate": base_path / "img" / "maps" / "ownership_noble_estate_map.html",
+        "Ownership - private": base_path / "img" / "maps" / "ownership_private_map.html",
+        "Ownership - ecclesiastic": base_path / "img" / "maps" / "ownership_ecclesiastic_map.html"
+    }
 
-    if total_map_path.exists():
-        html_content = total_map_path.read_text(encoding="utf-8")
+    selected_map = st.selectbox("Choose a map", list(map_files.keys()))
+
+    selected_map_path = map_files[selected_map]
+
+    if selected_map_path.exists():
+        html_content = selected_map_path.read_text(encoding="utf-8")
         components.html(html_content, height=700, scrolling=True)
     else:
-        st.warning("Total combined map file not found.")
+        st.warning(f"Map file not found: {selected_map_path.name}")
