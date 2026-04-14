@@ -21,7 +21,7 @@ The main objective is to explore how forest resources were mobilised for naval c
 
 The data was extracted from correspondence, accounts and reports exchanged between the officers of the Maritime Department of Cádiz and the Navy Secretary.
 
-These documents record the bureaucratic process behind the large-scale felling campaigns promoted by the Spanish state between 1748 and 1751.
+These documents record the bureaucratic process behind the large-scale felling campaigns promoted by the Spanish state between 1748 and 1751, through direct administration.
 
 These fellings formed part of a broader strategy of raw material procurement in preparation for an ambitious naval construction programme promoted by the Navy Secretary, Zénon Somodevilla, Marquis of Ensenada, between 1748 and 1754.
 
@@ -40,7 +40,7 @@ The data was originally compiled in an Excel spreadsheet for digital analysis an
 
 The coordinates were obtained through the Iberpix viewer of the Instituto Geográfico Nacional:
 
-[https://www.ign.es/iberpix/visor/](https://www.ign.es/iberpix/visor/)
+https://www.ign.es/iberpix/visor/
 
 Administrative boundaries were adapted from shapefiles downloaded from the IGN Centro de Descargas.
 
@@ -135,7 +135,10 @@ timber-supply-spanish-naval-industry/
 │   │   ├── dataset_maderas_clean.csv
 │   │   ├── dataset_maderas_final.csv
 │   │   └── dataset_maderas_final.xlsx
-│   └── boundaries/
+│   ├── boundaries/
+│   └── boundaries_app/
+│       ├── provinces_app.geojson
+│       └── municipalities_app.geojson
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_eda.ipynb
@@ -145,11 +148,20 @@ timber-supply-spanish-naval-industry/
 │   └── eda.md
 ├── img/
 │   ├── charts/
-│   ├── maps/
-│   └── screenshots/
+│   └── maps/
+│       ├── total_combined_map.html
+│       ├── species_oak_map.html
+│       ├── species_holm_oak_map.html
+│       ├── species_gall_oak_map.html
+│       ├── species_pine_map.html
+│       ├── ownership_comunal_map.html
+│       ├── ownership_noble_estate_map.html
+│       ├── ownership_private_map.html
+│       └── ownership_ecclesiastic_map.html
 ├── requirements.txt
 └── README.md
 ```
+
 
 ## Dashboard contents
 
@@ -195,11 +207,21 @@ Possible future developments include:
 
 ## Deployment
 
-The final project will be published through:
+The dashboard was deployed using Streamlit Community Cloud.
 
-* a public repository on GitHub containing the code, notebooks, README and dataset
-* an interactive web application deployed through Streamlit Community Cloud
-* supporting images and screenshots included in the repository documentation
+The repository was hosted on GitHub and connected directly to Streamlit Community Cloud through the main branch of the project repository.
+
+The application was deployed from:
+
+`app/app.py`
+
+The deployment process required adapting the original spatial data workflow. Large shapefiles were converted into lighter GeoJSON files in order to improve compatibility with Streamlit Cloud and reduce installation problems related to geospatial dependencies.
+
+Interactive choropleth maps were exported as HTML files and embedded directly into the dashboard. This approach reduced loading times and avoided dependency issues with packages such as Fiona and GDAL during cloud deployment.
+
+The final online version of the project is available at:
+
+`https://timber-spanish-naval-industry.streamlit.app/`
 
 ## Author
 
