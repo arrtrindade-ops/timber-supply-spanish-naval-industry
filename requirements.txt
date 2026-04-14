@@ -6,6 +6,5 @@ folium
 streamlit-folium
 geopandas
 matplotlib
-fiona
 pyproj
 shapely
