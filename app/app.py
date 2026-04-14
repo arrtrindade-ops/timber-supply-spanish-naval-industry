@@ -305,9 +305,9 @@ with tab3:
     ].copy()
 
     if not dynamic_map_df.empty:
-        provinces_path = base_path / "data" / "boundaries" / "lineas_limite" / "SHP_ETRS89" / "recintos_provinciales_inspire_peninbal_etrs89" / "recintos_provinciales_inspire_peninbal_etrs89.shp"
+        provinces_path = base_path / "data" / "boundaries_app" / "provinces_app.geojson"
 
-        municipalities_path = base_path / "data" / "boundaries" / "lineas_limite" / "SHP_ETRS89" / "recintos_municipales_inspire_peninbal_etrs89" / "recintos_municipales_inspire_peninbal_etrs89.shp"
+        municipalities_path = base_path / "data" / "boundaries_app" / "municipalities_app.geojson"
 
         provinces_dynamic = gpd.read_file(provinces_path)
         provinces_dynamic = provinces_dynamic.to_crs(epsg=4326)
@@ -418,10 +418,10 @@ with tab3:
 
     st.subheader("Choropleth map")
 
-total_map_path = base_path / "img" / "maps" / "total_combined_map.html"
+    total_map_path = base_path / "img" / "maps" / "total_combined_map.html"
 
-if total_map_path.exists():
-    html_content = total_map_path.read_text(encoding="utf-8")
-    components.html(html_content, height=700, scrolling=True)
-else:
-    st.warning("Total combined map file not found.")
+    if total_map_path.exists():
+        html_content = total_map_path.read_text(encoding="utf-8")
+        components.html(html_content, height=700, scrolling=True)
+    else:
+        st.warning("Total combined map file not found.")
