@@ -1,110 +1,110 @@
 ﻿felling_period;felling_toponymy_source;felling_toponymy_MTN25;latitude;longitude;province;municipality;landownership;landowner_name;tree_species;tree_quantity
-1748-1749;Benahú;Dehesa de Benahú ;36.57689304;-5.509202381;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;622.0
-1748-1749;Jarda;Dehesa de la Jarda ;36.60223799;-5.6019132409;Cádiz;Jerez de la Frontera;undefined;undefined;gall oak;230.0
-1748-1749;Barranco de la Fantasma;La Fantasma ;36.6099778174;-5.4648038479;Cádiz;Jerez de la Frontera;undefined;undefined;gall oak;240.0
-1748-1749;La Jardilla;La Jardilla ;36.62178904;-5.518366056;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;1457.0
-1748-1749;Garganta de Millán;Millán;36.61617144;-5.474945207;Cádiz;Jerez de la Frontera;undefined;undefined;gall oak;250.0
-1748-1749;Campo de las Encinas;Campo de las Encinas;36.75292427;-5.438416824;Cádiz;Grazalema;undefined;undefined;undefined species;383.0
-1748-1749;Breña del Água;Breña del Água;36.79982924;-5.457767886;Cádiz;Grazalema;undefined;undefined;undefined species;384.0
-1748-1749;Huertas de Benahoma;Benahoma;36.76518276;-5.463346881;Cádiz;Grazalema;undefined;undefined;undefined species;383.0
-1748-1749;Monte del Boyar;El Boyal;36.74800409;-5.426723999;Cádiz;Grazalema;undefined;undefined;undefined species;360.0
-1748-1749;Chorreadero;Chorreadero;36.83427701;-5.5176234176;Cádiz;Zahara de la Sierra;undefined;undefined;undefined species;370.0
-1748-1749;El Canchal;El Canchal;36.83170657;-5.5044698646;Cádiz;Zahara de la Sierra;noble estate;Duque de Arcos;undefined species;370.0
-1748-1750;El Canchal;El Canchal;36.84293228;-5.520069592;Cádiz;Algodonales;undefined;undefined;undefined species;370.0
-1748-1749;Chorreadero;Chorreadero;36.8340336855;-5.529137619;Cádiz;Prado del Rey;undefined;undefined;undefined species;370.0
-1748-1749;El Canchal;El Canchal;36.8202832219;-5.5273083452;Cádiz;Prado del Rey;undefined;undefined;undefined species;370.0
-1748-1749;Vegas de Juan Peon;Las Vegas;36.79936876;-5.518731601;Cádiz;Prado del Rey;undefined;undefined;undefined species;213.0
-1748-1749;Moracha Alta;La Moracha;36.50804025;-5.5576951442;Cádiz;Alcalá de los Gazules;undefined;undefined;gall oak, cork oak;1406.0
-1748-1749;Sauceda;La Sauceda;36.52543016;-5.583841408;Málaga;Cortes de la Frontera;private;Pedro Manuel Motezuma;gall oak, cork oak;2986.0
-1748-1749;Bañuelos;Roza de Bañuelos;36.58488386;-5.444877644;Málaga;Cortes de la Frontera;undefined;undefined;undefined species;1300.0
-1748-1749;Monte del Berrueco;El Berrueco;36.61847484;-5.417707898;Málaga;Cortes de la Frontera;undefined;undefined;undefined species;320.0
-1748-1749;Puerto de las Encinas;Puerto de la Encina;36.59685737;-5.440138557;Málaga;Cortes de la Frontera;undefined;undefined;undefined species;533.0
+1748-1749;Benahú;Dehesa de Benahú ;3.657.689.304;-5.509.202.381;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;622.0
+1748-1749;Jarda;Dehesa de la Jarda ;3.660.223.799;-56.019.132.409;Cádiz;Jerez de la Frontera;undefined;undefined;gall oak;230.0
+1748-1749;Barranco de la Fantasma;La Fantasma ;366.099.778.174;-54.648.038.479;Cádiz;Jerez de la Frontera;undefined;undefined;gall oak;240.0
+1748-1749;La Jardilla;La Jardilla ;3.662.178.904;-5.518.366.056;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;1457.0
+1748-1749;Garganta de Millán;Millán;3.661.617.144;-5.474.945.207;Cádiz;Jerez de la Frontera;undefined;undefined;gall oak;250.0
+1748-1749;Campo de las Encinas;Campo de las Encinas;3.675.292.427;-5.438.416.824;Cádiz;Grazalema;undefined;undefined;undefined species;383.0
+1748-1749;Breña del Água;Breña del Água;3.679.982.924;-5.457.767.886;Cádiz;Grazalema;undefined;undefined;undefined species;384.0
+1748-1749;Huertas de Benahoma;Benahoma;3.676.518.276;-5.463.346.881;Cádiz;Grazalema;undefined;undefined;undefined species;383.0
+1748-1749;Monte del Boyar;El Boyal;3.674.800.409;-5.426.723.999;Cádiz;Grazalema;undefined;undefined;undefined species;360.0
+1748-1749;Chorreadero;Chorreadero;3.683.427.701;-55.176.234.176;Cádiz;Zahara de la Sierra;undefined;undefined;undefined species;370.0
+1748-1749;El Canchal;El Canchal;3.683.170.657;-55.044.698.646;Cádiz;Zahara de la Sierra;noble estate;Duque de Arcos;undefined species;370.0
+1748-1750;El Canchal;El Canchal;3.684.293.228;-5.520.069.592;Cádiz;Algodonales;undefined;undefined;undefined species;370.0
+1748-1749;Chorreadero;Chorreadero;368.340.336.855;-5.529.137.619;Cádiz;Prado del Rey;undefined;undefined;undefined species;370.0
+1748-1749;El Canchal;El Canchal;368.202.832.219;-55.273.083.452;Cádiz;Prado del Rey;undefined;undefined;undefined species;370.0
+1748-1749;Vegas de Juan Peon;Las Vegas;3.679.936.876;-5.518.731.601;Cádiz;Prado del Rey;undefined;undefined;undefined species;213.0
+1748-1749;Moracha Alta;La Moracha;3.650.804.025;-55.576.951.442;Cádiz;Alcalá de los Gazules;undefined;undefined;gall oak, cork oak;1406.0
+1748-1749;Sauceda;La Sauceda;3.652.543.016;-5.583.841.408;Málaga;Cortes de la Frontera;private;Pedro Manuel Motezuma;gall oak, cork oak;2986.0
+1748-1749;Bañuelos;Roza de Bañuelos;3.658.488.386;-5.444.877.644;Málaga;Cortes de la Frontera;undefined;undefined;undefined species;1300.0
+1748-1749;Monte del Berrueco;El Berrueco;3.661.847.484;-5.417.707.898;Málaga;Cortes de la Frontera;undefined;undefined;undefined species;320.0
+1748-1749;Puerto de las Encinas;Puerto de la Encina;3.659.685.737;-5.440.138.557;Málaga;Cortes de la Frontera;undefined;undefined;undefined species;533.0
 1748-1749;Santa María de Guadalupe;El Bosque;;;Cádiz;El Bosque;noble estate;Duque de Arcos;gall oak;204.0
-1748-1750;El Enimigo;Cerro del Enimigo ;36.60071713;-5.47458295;Cádiz;Jerez de la Frontera;undefined;undefined;undefined species;0.0
-1748-1750;El Palero;Arroyo del Palerillo Bajo;36.63041184;-5.488708528;Cádiz;Jerez de la Frontera;undefined;undefined;undefined species;0.0
-1748-1750;Marrufo;Dehesa de Marrufo;36.5595086100001;-5.58258030799993;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;0.0
+1748-1750;El Enimigo;Cerro del Enimigo ;3.660.071.713;-547.458.295;Cádiz;Jerez de la Frontera;undefined;undefined;undefined species;0.0
+1748-1750;El Palero;Arroyo del Palerillo Bajo;3.663.041.184;-5.488.708.528;Cádiz;Jerez de la Frontera;undefined;undefined;undefined species;0.0
+1748-1750;Marrufo;Dehesa de Marrufo;365.595.086.100.001;-558.258.030.799.993;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;0.0
 1748-1750;Ronda;Ronda;;;Málaga;Ronda;comunal;Ronda;gall oak;4198.0
 1748-1751;Castellar;undefined;;;Cádiz;Castellar de la Frontera;comunal;Castellar de la Frontera;oak;898.0
 1748-1751;Dehesa de Alcalá del Valle;undefined;;;Cádiz;Alcalá del Valle;comunal;Alcalá del Valle;oak;1645.0
 1748-1751;Santa María de Guadalupe / El Bosque;El Bosque;;;Cádiz;El Bosque;noble estate;Duque de Arcos;oak;0.0
 1748-1751;Ubrique;Ubrique;;;Cádiz;Ubrique;comunal;Ubrique;oak;3150.0
 1748-1751;Ronda;Ronda;;;Málaga;Ronda;comunal;Ronda;undefined species;91.0
-1749;Sauceda;La Sauceda;36.52543016;-5.583841408;Málaga;Cortes de la Frontera;private;Pedro Manuel Motezuma;undefined species;0.0
+1749;Sauceda;La Sauceda;3.652.543.016;-5.583.841.408;Málaga;Cortes de la Frontera;private;Pedro Manuel Motezuma;undefined species;0.0
 1749-1750;Xerez;Jeréz de la Frontera;;;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;cork oak;245.0
-1749-1750;Benahú;Dehesa de Benahú ;36.57689304;-5.509202381;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;0.0
-1749-1750;Marrufo;Dehesa de Marrufo;36.5595086100001;-5.58258030799993;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;0.1
-1749-1750;Dehesa de Pasada Blanca;Dehesa de Pasada Blanca;36.56451668;-5.5110559;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;560.0
-1749-1750;Dehesa del Tomillo;Los Tomillos;36.93788809;-5.107281846;Cádiz;Alcalá del Valle;noble estate;Marqués de Benamejí;oak;3593.0
-1749-1750;Atrera;Atrera;36.69032254;-5.573256974;Cádiz;Arcos de la Frontera;noble estate;Duque de Arcos;oak;18.0
-1749-1750;Esparragosilla;La Esparragosilla;36.7000286;-5.5031861539;Cádiz;Benaocaz;noble estate;Duque de Arcos;oak;18.0
-1749-1750;Mesquitilla;La Mezquitilla ;36.71289624;-5.4998977657;Cádiz;Benaocaz;noble estate;Duque de Arcos;oak;102.0
-1749-1750;El Navazo;El Navazo;36.77882221;-5.447618434;Cádiz;Grazalema;noble estate;Duque de Arcos;oak;266.0
-1749-1750;Hoya del Pinar;El Pinar ;36.7719736;-5.4379467296;Cádiz;Grazalema;noble estate;Duque de Arcos;oak;2087.0
-1749-1750;Cardela;Cardela ;36.66041117;-5.498323664;Cádiz;Ubrique;noble estate;Duque de Arcos;oak;186.0
-1749-1750;El Canchal;El Canchal ;36.83170657;-5.5044698646;Cádiz;Zahara de la Sierra;noble estate;Duque de Arcos;oak;57.0
-1749-1750;Puerto de Argamazón;Puerto del Argamazón;36.80057985;-5.492615505;Cádiz;Zahara de la Sierra;noble estate;Duque de Arcos;oak;134.0
-1749-1750;La Jardilla;La Jardilla ;36.62178904;-5.518366056;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;120.0
-1749-1750;Garganta del Artillero;Arroyo del Artillero;36.61407578;-5.556229095;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;120.0
-1749-1750;Garganta de las Palas;Arroyo de las Palas;36.595085908;-5.5926926958;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;119.0
-1749-1750;Gamín Bajo, Gamín Alto,Argamis Alto;Dehesa de Gamí;36.54691111;-5.52694973;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;560.0
-1749-1750;Dehesa de Fazana;Dehesa de Fasana;36.54410693;-5.5172478175;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;560.0
-1749-1750;Dehesa de la Goleta;La Goleta;36.44856091;-5.550147643;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
-1749-1750;Exes de Moracha;Los Ejes;36.47395275;-5.560217103;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
-1749-1750;Granadilla;La Granadilla;36.46673352;-5.570801736;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
-1749-1750;Cuesta de Huevo Duro;La Cuesta;36.45898542;-5.553602328;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
-1749-1750;Monte de la Gitana;Cueva de la Gitana ;36.44386166;-5.5279907549;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
-1749-1750;Cavezadas del Guadarranque;Río Guardarranque;36.38279334;-5.538237362;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;30.0
-1749-1750;Buqueos de Pulga;Loma de la Pulga;36.6005773;-5.381514519;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;1113.0
-1749-1750;El Palancón;Casas del Palancar ;36.56742138;-5.405345405;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;233.0
-1749-1750;El Gamero;Casa del Gamero ;36.4404434;-5.508884417;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;220.0
-1749-1750;Dehesa de la Hoya de la Muger;Fuente de la Hoya de la Mujer ;36.54410041;-5.481880966;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;582.0
-1749-1750;Diego Duro;Casa de Diego Duro ;36.52278984;-5.530238656;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;282.0
-1750;Breña de la Jara;Cerro de Breña Honda;36.60953607;-5.5659360847;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;287.0
-1750;Charco de los Furones;Dehesa de Charco de los Hurones;36.62604911;-5.571468954;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;286.0
-1750;La Umbría;La Umbría;36.62350122;-5.469129451;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;286.0
-1750;Dehesa de las Navas;Majada de las Navas ;36.62755359;-5.500108222;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;287.0
-1750;Dehesa de la Granadilla;La Granadilla;36.46673352;-5.570801736;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;338.0
-1750;Garganta de la Tala;La Mogea de la Tala;36.46771875;-5.586496053;Cádiz;Alcalá de los Gazules;comunal;Alcalá de los Gazules;holm oak, gall oak;167.0
-1750;Dehesa de Nava Matrera;Dehesa de Navamatrera ;36.3078206;-5.51236295;Cádiz;Castellar de la Frontera;noble estate;Duque de Santo Esteban;oak;1113.0
-1750;Dehesa de Boyar;La Boyal ;36.31294603;-5.456553148;Cádiz;Castellar de la Frontera;comunal;Castellar de la Frontera;oak;57.0
+1749-1750;Benahú;Dehesa de Benahú ;3.657.689.304;-5.509.202.381;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;0.0
+1749-1750;Marrufo;Dehesa de Marrufo;365.595.086.100.001;-558.258.030.799.993;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;0.1
+1749-1750;Dehesa de Pasada Blanca;Dehesa de Pasada Blanca;3.656.451.668;-55.110.559;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;560.0
+1749-1750;Dehesa del Tomillo;Los Tomillos;3.693.788.809;-5.107.281.846;Cádiz;Alcalá del Valle;noble estate;Marqués de Benamejí;oak;3593.0
+1749-1750;Atrera;Atrera;3.669.032.254;-5.573.256.974;Cádiz;Arcos de la Frontera;noble estate;Duque de Arcos;oak;18.0
+1749-1750;Esparragosilla;La Esparragosilla;367.000.286;-55.031.861.539;Cádiz;Benaocaz;noble estate;Duque de Arcos;oak;18.0
+1749-1750;Mesquitilla;La Mezquitilla ;3.671.289.624;-54.998.977.657;Cádiz;Benaocaz;noble estate;Duque de Arcos;oak;102.0
+1749-1750;El Navazo;El Navazo;3.677.882.221;-5.447.618.434;Cádiz;Grazalema;noble estate;Duque de Arcos;oak;266.0
+1749-1750;Hoya del Pinar;El Pinar ;367.719.736;-54.379.467.296;Cádiz;Grazalema;noble estate;Duque de Arcos;oak;2087.0
+1749-1750;Cardela;Cardela ;3.666.041.117;-5.498.323.664;Cádiz;Ubrique;noble estate;Duque de Arcos;oak;186.0
+1749-1750;El Canchal;El Canchal ;3.683.170.657;-55.044.698.646;Cádiz;Zahara de la Sierra;noble estate;Duque de Arcos;oak;57.0
+1749-1750;Puerto de Argamazón;Puerto del Argamazón;3.680.057.985;-5.492.615.505;Cádiz;Zahara de la Sierra;noble estate;Duque de Arcos;oak;134.0
+1749-1750;La Jardilla;La Jardilla ;3.662.178.904;-5.518.366.056;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;120.0
+1749-1750;Garganta del Artillero;Arroyo del Artillero;3.661.407.578;-5.556.229.095;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;120.0
+1749-1750;Garganta de las Palas;Arroyo de las Palas;36.595.085.908;-55.926.926.958;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;119.0
+1749-1750;Gamín Bajo, Gamín Alto,Argamis Alto;Dehesa de Gamí;3.654.691.111;-552.694.973;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;560.0
+1749-1750;Dehesa de Fazana;Dehesa de Fasana;3.654.410.693;-55.172.478.175;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;560.0
+1749-1750;Dehesa de la Goleta;La Goleta;3.644.856.091;-5.550.147.643;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
+1749-1750;Exes de Moracha;Los Ejes;3.647.395.275;-5.560.217.103;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
+1749-1750;Granadilla;La Granadilla;3.646.673.352;-5.570.801.736;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
+1749-1750;Cuesta de Huevo Duro;La Cuesta;3.645.898.542;-5.553.602.328;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
+1749-1750;Monte de la Gitana;Cueva de la Gitana ;3.644.386.166;-55.279.907.549;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;448.0
+1749-1750;Cavezadas del Guadarranque;Río Guardarranque;3.638.279.334;-5.538.237.362;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;30.0
+1749-1750;Buqueos de Pulga;Loma de la Pulga;366.005.773;-5.381.514.519;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;1113.0
+1749-1750;El Palancón;Casas del Palancar ;3.656.742.138;-5.405.345.405;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;233.0
+1749-1750;El Gamero;Casa del Gamero ;364.404.434;-5.508.884.417;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak;220.0
+1749-1750;Dehesa de la Hoya de la Muger;Fuente de la Hoya de la Mujer ;3.654.410.041;-5.481.880.966;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;582.0
+1749-1750;Diego Duro;Casa de Diego Duro ;3.652.278.984;-5.530.238.656;Málaga;Cortes de la Frontera;comunal;Cortes de la Frontera;oak;282.0
+1750;Breña de la Jara;Cerro de Breña Honda;3.660.953.607;-55.659.360.847;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;287.0
+1750;Charco de los Furones;Dehesa de Charco de los Hurones;3.662.604.911;-5.571.468.954;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;286.0
+1750;La Umbría;La Umbría;3.662.350.122;-5.469.129.451;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;286.0
+1750;Dehesa de las Navas;Majada de las Navas ;3.662.755.359;-5.500.108.222;Cádiz;Jerez de la Frontera;comunal;Jerez de la Frontera;gall oak;287.0
+1750;Dehesa de la Granadilla;La Granadilla;3.646.673.352;-5.570.801.736;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;holm oak, gall oak;338.0
+1750;Garganta de la Tala;La Mogea de la Tala;3.646.771.875;-5.586.496.053;Cádiz;Alcalá de los Gazules;comunal;Alcalá de los Gazules;holm oak, gall oak;167.0
+1750;Dehesa de Nava Matrera;Dehesa de Navamatrera ;363.078.206;-551.236.295;Cádiz;Castellar de la Frontera;noble estate;Duque de Santo Esteban;oak;1113.0
+1750;Dehesa de Boyar;La Boyal ;3.631.294.603;-5.456.553.148;Cádiz;Castellar de la Frontera;comunal;Castellar de la Frontera;oak;57.0
 1750;Baldíos de Jimena;undefined;;;Cádiz;Jimena de la Frontera;fallow land;Jimena de la Frontera;oak;2120.0
-1750;Dehesa de Buenas Noches;Buenas Noches Vieja;36.41802186;-5.571195423;Cádiz;Jimena de la Frontera;noble estate;Duque de Medina Sidonia;gall oak;2847.0
-1750;Dehesa de Juncoso;El Juncoso;36.7268559153;-5.561942101;Cádiz;Arcos de la Frontera;noble estate;Duque de Arcos;oak;234.0
-1750;Loma de la Peña;Loma de la Peña;36.43640789;-5.5063195;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
-1750;Los Gavilanes;Los Gavilanes;36.43293957;-5.539839328;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
-1750;Lentiscal;El Lentiscar;36.42008002;-5.52765988;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
+1750;Dehesa de Buenas Noches;Buenas Noches Vieja;3.641.802.186;-5.571.195.423;Cádiz;Jimena de la Frontera;noble estate;Duque de Medina Sidonia;gall oak;2847.0
+1750;Dehesa de Juncoso;El Juncoso;367.268.559.153;-5.561.942.101;Cádiz;Arcos de la Frontera;noble estate;Duque de Arcos;oak;234.0
+1750;Loma de la Peña;Loma de la Peña;3.643.640.789;-55.063.195;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
+1750;Los Gavilanes;Los Gavilanes;3.643.293.957;-5.539.839.328;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
+1750;Lentiscal;El Lentiscar;3.642.008.002;-552.765.988;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
 1750;Tronco;undefined;;;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
 1750;Moros;undefined;;;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
 1750;Lajuela;undefined;;;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
 1750;Monte de la Zarza;undefined;;;Cádiz;Jimena de la Frontera;comunal;Jimena de la Frontera;oak, gall oak;0.0
 1750-1751;Sierra de Jerez;undefined;;;Cádiz;Jerez de la Frontera;undefined;undefined;undefined species;238.0
-1748-1749;Dehesa Vollar;Dehesa Boyal;37.2623456028;-6.4647598008;Huelva;Almonte;comunal;Almonte;holm oak;40.0
-1748-1749;Dehesa de la Parrilla;Dehesa de la Parrilla;37.32007264;-6.475037122;Huelva;Almonte;comunal;Almonte;holm oak;40.0
-1748-1749;Dehesa de Remuñana;Dehesa de Romuñana;37.29350437;-6.545288959;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;50.0
-1748-1749;Dehesa de Montañina;La Montañina;37.34899709;-6.570694843;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;310.0
-1748-1749;Dehesa de Paternina;Dehesa de Paternina;37.3331629207;-6.424401461;Huelva;Chucena;noble estate;Duque de Alcalá;holm oak;11.0
-1748-1749;Dehesa de Genil;Hacienda de Genis;37.35951484;-6.36074504;Huelva;Chucena;noble estate;Marqués de Las Torres;holm oak;25.0
-1748-1749;Dehesa de Torralba;Hacienda de Torralba;37.37315932;-6.383912618;Huelva;Chucena;noble estate;Marqués de Torralba;holm oak;130.0
-1748-1749;Dehesa Vollar;Dehesa Boyal;37.31139073;-6.420850387;Huelva;Hinojos;comunal;Bollullos del Condado;holm oak;80.0
-1748-1749;Dehesa de Garruchena;Dehesa de Garruchena;37.34288999;-6.467856282;Huelva;Hinojos;noble estate;Marqués de Astorga;holm oak;36.0
-1748-1749;Dehesa de Torre de Quadros;Dehesa de Torrecuadros;37.31127133;-6.364159217;Huelva;Hinojos;noble estate;Marqués de la Villa;holm oak;200.0
-1748-1749;Dehesa de Boyar de  Rusiana;Las Vaquerizas;37.2609626924;-6.634794511;Huelva;Rociana del Condado;comunal;Rociana del Condado;holm oak;40.0
-1748-1749;Dehesa de Purchena;Dehesa de Purchena;37.35584015;-6.438208807;Huelva;Villalba del Alcor;noble estate;Marqués de Priego;holm oak;170.0
-1748-1749;Quema;Cortijo de Quema;37.25192428;-6.256546246;Sevilla;Aznalcázar;private;Francisco Esquível;holm oak;360.0
-1748-1749;Dehesa de Charena;Charenas;37.25996497;-6.230187029;Sevilla;Aznalcázar;comunal;Aznalcázar;holm oak;18.0
-1748-1749;Dehesa de Venacazon / Boyal de Venacazon;La Dehesilla;37.35186627;-6.213768561;Sevilla;Benacazón;noble estate;Conde de Torrejón;holm oak;123.0
-1748-1749;Dehesa de Venaxiar;Benajiar;37.27200002;-6.191586913;Sevilla;Bollullos de la Mitación;noble estate;Conde de Torrejón;holm oak;40.0
+1748-1749;Dehesa Vollar;Dehesa Boyal;372.623.456.028;-64.647.598.008;Huelva;Almonte;comunal;Almonte;holm oak;40.0
+1748-1749;Dehesa de la Parrilla;Dehesa de la Parrilla;3.732.007.264;-6.475.037.122;Huelva;Almonte;comunal;Almonte;holm oak;40.0
+1748-1749;Dehesa de Remuñana;Dehesa de Romuñana;3.729.350.437;-6.545.288.959;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;50.0
+1748-1749;Dehesa de Montañina;La Montañina;3.734.899.709;-6.570.694.843;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;310.0
+1748-1749;Dehesa de Paternina;Dehesa de Paternina;373.331.629.207;-6.424.401.461;Huelva;Chucena;noble estate;Duque de Alcalá;holm oak;11.0
+1748-1749;Dehesa de Genil;Hacienda de Genis;3.735.951.484;-636.074.504;Huelva;Chucena;noble estate;Marqués de Las Torres;holm oak;25.0
+1748-1749;Dehesa de Torralba;Hacienda de Torralba;3.737.315.932;-6.383.912.618;Huelva;Chucena;noble estate;Marqués de Torralba;holm oak;130.0
+1748-1749;Dehesa Vollar;Dehesa Boyal;3.731.139.073;-6.420.850.387;Huelva;Hinojos;comunal;Bollullos del Condado;holm oak;80.0
+1748-1749;Dehesa de Garruchena;Dehesa de Garruchena;3.734.288.999;-6.467.856.282;Huelva;Hinojos;noble estate;Marqués de Astorga;holm oak;36.0
+1748-1749;Dehesa de Torre de Quadros;Dehesa de Torrecuadros;3.731.127.133;-6.364.159.217;Huelva;Hinojos;noble estate;Marqués de la Villa;holm oak;200.0
+1748-1749;Dehesa de Boyar de  Rusiana;Las Vaquerizas;372.609.626.924;-6.634.794.511;Huelva;Rociana del Condado;comunal;Rociana del Condado;holm oak;40.0
+1748-1749;Dehesa de Purchena;Dehesa de Purchena;3.735.584.015;-6.438.208.807;Huelva;Villalba del Alcor;noble estate;Marqués de Priego;holm oak;170.0
+1748-1749;Quema;Cortijo de Quema;3.725.192.428;-6.256.546.246;Sevilla;Aznalcázar;private;Francisco Esquível;holm oak;360.0
+1748-1749;Dehesa de Charena;Charenas;3.725.996.497;-6.230.187.029;Sevilla;Aznalcázar;comunal;Aznalcázar;holm oak;18.0
+1748-1749;Dehesa de Venacazon / Boyal de Venacazon;La Dehesilla;3.735.186.627;-6.213.768.561;Sevilla;Benacazón;noble estate;Conde de Torrejón;holm oak;123.0
+1748-1749;Dehesa de Venaxiar;Benajiar;3.727.200.002;-6.191.586.913;Sevilla;Bollullos de la Mitación;noble estate;Conde de Torrejón;holm oak;40.0
 1748-1749;Dehesa de Molino de los Zéspedes;undefined;;;Sevilla;Carrión de los Céspedes;noble estate;Marqués de Villa Franca;holm oak;60.0
-1748-1749;Dehesa de Collera;Collera;37.34105568;-6.308886794;Sevilla;Huévar;private;Ignacio de Castañeda;holm oak;250.0
-1748-1749;Dehesa de Espechilla;Dehesa de Espechilla;37.32809507;-6.333664706;Sevilla;Huévar;ecclesiastic;Catedral de Sevilla;holm oak;400.0
-1748-1749;Dehesa de Lerena;Dehesa de Lerena;37.34130743;-6.341364825;Sevilla;Huévar;noble estate;Marqués de La Fuente;holm oak;231.0
-1748-1749;Dehesa de Robaina;Cerro de Robaina;37.33060686;-6.287491349;Sevilla;Pilas;ecclesiastic;Orden de Malta;holm oak;73.0
-1748-1749;Dehesa de Pilas;Dehesa de Pilas;37.27918534;-6.317927291;Sevilla;Pilas;comunal;Pilas;holm oak;170.0
-1748-1749;Dehesa de Santillan;Santillán;37.31953845;-6.33393354;Sevilla;Pilas;noble estate;Marqués de Dos Hermanas;holm oak;160.0
-1748-1749;Crespín;Crispín;37.48862159;-6.2129359643;Sevilla;Sanlúcar la Mayor;noble estate;Duque de Alba;holm oak;210.0
-1748-1749;Lopas;Dehesa de Lopaz;37.28457871;-6.19580745;Sevilla;Umbrete;ecclesiastic;Cardenal Infante Luis Antonio Jaime de Borbón y Farnesio;holm oak;50.0
-1748-1749;Dehesa de Chillas;Cortijo de Chilla;37.26177391;-6.279890135;Sevilla;Villamanrique de la Condesa;noble estate;Marqués de Astorga;holm oak;74.0
-1748-1749;Dehesa de Gato;El Gato;37.24566317;-6.343690193;Sevilla;Villamanrique de la Condesa;noble estate;Marqués de Astorga;holm oak;150.0
+1748-1749;Dehesa de Collera;Collera;3.734.105.568;-6.308.886.794;Sevilla;Huévar;private;Ignacio de Castañeda;holm oak;250.0
+1748-1749;Dehesa de Espechilla;Dehesa de Espechilla;3.732.809.507;-6.333.664.706;Sevilla;Huévar;ecclesiastic;Catedral de Sevilla;holm oak;400.0
+1748-1749;Dehesa de Lerena;Dehesa de Lerena;3.734.130.743;-6.341.364.825;Sevilla;Huévar;noble estate;Marqués de La Fuente;holm oak;231.0
+1748-1749;Dehesa de Robaina;Cerro de Robaina;3.733.060.686;-6.287.491.349;Sevilla;Pilas;ecclesiastic;Orden de Malta;holm oak;73.0
+1748-1749;Dehesa de Pilas;Dehesa de Pilas;3.727.918.534;-6.317.927.291;Sevilla;Pilas;comunal;Pilas;holm oak;170.0
+1748-1749;Dehesa de Santillan;Santillán;3.731.953.845;-633.393.354;Sevilla;Pilas;noble estate;Marqués de Dos Hermanas;holm oak;160.0
+1748-1749;Crespín;Crispín;3.748.862.159;-62.129.359.643;Sevilla;Sanlúcar la Mayor;noble estate;Duque de Alba;holm oak;210.0
+1748-1749;Lopas;Dehesa de Lopaz;3.728.457.871;-619.580.745;Sevilla;Umbrete;ecclesiastic;Cardenal Infante Luis Antonio Jaime de Borbón y Farnesio;holm oak;50.0
+1748-1749;Dehesa de Chillas;Cortijo de Chilla;3.726.177.391;-6.279.890.135;Sevilla;Villamanrique de la Condesa;noble estate;Marqués de Astorga;holm oak;74.0
+1748-1749;Dehesa de Gato;El Gato;3.724.566.317;-6.343.690.193;Sevilla;Villamanrique de la Condesa;noble estate;Marqués de Astorga;holm oak;150.0
 1748-1749;Chucena;Chucena;;;Sevilla;Chucena;noble estate;Marqués de Torres;holm oak;12.0
 1748-1750;Chucena;Chucena;;;Sevilla;Chucena;noble estate;Marqués de Torres;pine;7.0
 1748-1749;Almonte;Almonte;;;Huelva;Almonte;private;José Carlos Tello;pine;5.0
@@ -117,10 +117,10 @@
 1748-1749;Hinojos;Hinojos;;;Huelva;Hinojos;private, ecclesiastic;José Domínguez, Hermandad de Nuestra Señora del Rosario, Convento de Nuestra Señora del Pópulo;pine;74.0
 1748-1749;Dehesa de Torre de Palencia;undefined;;;Huelva;Huelva;private;Diego de Guzmán;holm oak;0.0
 1748-1749;Benacazón;Benacazón;;;Sevilla;Benacazón;noble estate;Conde de Torrejón;holm oak;137.0
-1748-1749;Gelo;Dehesa de Gelo;37.32097273;-6.207600172;Sevilla;Benacazón;noble estate;Marqués de Gelo;holm oak;298.0
-1748-1749;Dehesa de Torres;Las Torres ;37.35224153;-6.239882548;Sevilla;Benacazón;assistance institution;Misericordia de Sevilla;pine;4.0
-1748-1749;Dehesa de Torres;Las Torres ;37.35224153;-6.239882548;Sevilla;Benacazón;assistance institution;Misericordia de Sevilla;holm oak;559.0
-1748-1749;Torre de las Arcas;Torre de las Arcas;37.35790822;-6.1370962725;Sevilla;Bollullos de la Mitación;ecclesiastic;Catedral de Sevilla;pine;1.0
+1748-1749;Gelo;Dehesa de Gelo;3.732.097.273;-6.207.600.172;Sevilla;Benacazón;noble estate;Marqués de Gelo;holm oak;298.0
+1748-1749;Dehesa de Torres;Las Torres ;3.735.224.153;-6.239.882.548;Sevilla;Benacazón;assistance institution;Misericordia de Sevilla;pine;4.0
+1748-1749;Dehesa de Torres;Las Torres ;3.735.224.153;-6.239.882.548;Sevilla;Benacazón;assistance institution;Misericordia de Sevilla;holm oak;559.0
+1748-1749;Torre de las Arcas;Torre de las Arcas;3.735.790.822;-61.370.962.725;Sevilla;Bollullos de la Mitación;ecclesiastic;Catedral de Sevilla;pine;1.0
 1748-1749;Espartinas;Espartinas;;;Sevilla;Espartinas;noble estate;Marqués de Tablantes;pine;1.0
 1748-1749;Huevar;Huevar;;;Sevilla;Huévar;private;Ignacio de Castañeda;holm oak;372.0
 1748-1749;Pilas;Pilas;;;Sevilla;Pilas;noble estate;Marqués de Dos Hermanas;pine;1.0
@@ -144,114 +144,114 @@
 1748-1751;Hinojos;Hinojos;;;Huelva;Hinojos;private, comunal;Alonso Pérez Mota, Francisco José Vayas, Fernando Vayas Mota;pine;31.0
 1748-1751;Benacazón;Benacazón;;;Sevilla;Benacazón;noble estate;Conde de Torrejón;pine;346.0
 1748-1751;Umbrete;Umbrete;;;Sevilla;Umbrete;private;Francisco Bolaños;pine;8.0
-1749;Dehesa de Remuñana;Dehesa de Romuñana;37.29350437;-6.545288959;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;188.0
-1749;Dehesa de Aljobar;Casa de Aljóbar;37.26813159;-6.234787288;Sevilla;Aznalcázar;noble estate;Conde-Duque de Olivares;holm oak;13.0
-1749;Dehesa de Benacazón;La Dehesilla;37.35186627;-6.213768561;Sevilla;Benacazón;noble estate;Conde de Torrejón;holm oak;29.0
-1749;Dehesa de Torres;Las Torres;37.35224153;-6.239882548;Sevilla;Benacazón;assistance institution;Misericordia de Sevilla;holm oak;53.0
-1749;Dehesa de Espechilla;Dehesa de Espechilla;37.32809507;-6.333664706;Sevilla;Huévar;ecclesiastic;Catedral de Sevilla;holm oak;50.0
-1749;Dehesa de Lerena;Dehesa de Lerena;37.34130743;-6.341364825;Sevilla;Huévar;noble estate;Marqués de La Fuente;holm oak;25.0
-1749;Dehesa de Robaina;Cerro de Robaina;37.33060686;-6.287491349;Sevilla;Pilas;ecclesiastic;Orden de Malta;holm oak;60.0
-1749;Dehesa de Santillán;Santillán;37.31953845;-6.33393354;Sevilla;Pilas;noble estate;Marqués de Dos Hermanas;holm oak;10.0
-1749;Dehesa de Chillas;Cortijo de Chillas;37.26177391;-6.279890135;Sevilla;Villamanrique de la Condesa;noble estate;Marqués de Astorga;holm oak;19.0
-1749;Dehesa de Gato;Gato;37.24566317;-6.343690193;Sevilla;Villamanrique de la Condesa;noble estate;Marqués de Astorga;holm oak;32.0
-1749;El Caosso;El Cadoso;37.4641822;-5.777096847;Sevilla;Carmona;private, noble estate;Pedro Morales, Marqués de Caozo;pine;6.0
-1749;El Corso;El Corzo;37.4866467494;-5.803431895;Sevilla;Carmona;noble estate;Duquesa de Veraguas;pine;14.0
-1749;Zelada;La Celada;37.46463175;-5.796715643;Sevilla;Carmona;private;Ana Barrientos;pine;2.0
-1749;Mojin;La Mohína;37.43215415;-5.807149524;Sevilla;Carmona;private;María Lamilla;pine;1.0
-1749;Pinal de la Plata;La Plata;37.5266144815;-5.7609621971;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;7.0
-1749;Las Corchas;Las Corchas;37.4218264322;-5.7814142394;Sevilla;Carmona;private;Fernando Barrientos;pine;5.0
-1749;Los Graneros;Los Graneros;37.4331025143;-5.7765013568;Sevilla;Carmona;private;Juan de Lamilla;pine;1.0
-1749;Olivares;Los Olivos;37.41264272;-5.526074842;Sevilla;Carmona;private;Antonio Quintanilla;pine;2.0
-1749;Ventanas;Los Ventanales;37.45082359;-5.725885122;Sevilla;Carmona;private;Manuel Morillo;pine;2.0
-1749;Miraflores;Miraflores;37.45199325;-5.8184093499;Sevilla;Carmona;private;Fernando Barba, Martín Barba;pine;7.0
-1749;Menina;Medina;37.45966867;-5.785615542;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;5.0
-1749;Palma Gallarda;Palma Gallarda;37.4431059806;-5.7419546468;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;9.0
-1749;Pozo del Zierbo;Pozo Dulce;37.31678763;-5.658763921;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;4.0
-1749;Suerte del Saltillo;Suerte del Marqués;37.3229186595;-5.645843549;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;17.0
-1749;Villa Gordo;Villa Gordo;37.4291366388;-5.7322610013;Sevilla;Carmona;private, ecclesiastic;Widow of Miguel Lamilla, Compañía de Jesus;pine;98.0
-1749;Suerte de Quintanilla;Quintanilla;37.3662699423;-5.8471434501;Sevilla;Alcalá de Guadaíra;noble estate;Marqués de Saltillo;pine;22.0
-1749;Linde de Remuñana;Dehesa de Remuñana;37.29350437;-6.545288959;Huelva;Bollullos Par del Condado;private;undefined;holm oak;3.0
-1749;Genis;Hacienda de Genis  ;37.35951484;-6.36074504;Huelva;Chucena;noble estate;Marqués de Las Torres;holm oak;14.0
-1749;Genis;Hacienda de Genis  ;37.35951484;-6.36074504;Huelva;Chucena;noble estate;Marqués de Las Torres;pine;56.0
-1749;Dehesa de Torralba;Hacienda de Torralba;37.37315932;-6.383912618;Huelva;Chucena;noble estate;Marqués de Torralba;holm oak;64.0
-1749;Torre de Quadros;Dehesa de Torrecuadros;37.31127133;-6.364159217;Huelva;Hinojos;noble estate, ecclesiastic;Marquesa de La Motilla, Convento de San Pablo de Sevilla;holm oak;27.0
-1749;Garruchena;Dehesa de Garruchena;37.34288999;-6.467856282;Huelva;Hinojos;noble estate;Marqués de Astorga;holm oak;12.0
-1749;Dehesa de Lerena;Dehesa de Lerena;37.34130743;-6.341364825;Sevilla;Huévar;noble estate;Marqués de La Fuente;holm oak;64.0
+1749;Dehesa de Remuñana;Dehesa de Romuñana;3.729.350.437;-6.545.288.959;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;188.0
+1749;Dehesa de Aljobar;Casa de Aljóbar;3.726.813.159;-6.234.787.288;Sevilla;Aznalcázar;noble estate;Conde-Duque de Olivares;holm oak;13.0
+1749;Dehesa de Benacazón;La Dehesilla;3.735.186.627;-6.213.768.561;Sevilla;Benacazón;noble estate;Conde de Torrejón;holm oak;29.0
+1749;Dehesa de Torres;Las Torres;3.735.224.153;-6.239.882.548;Sevilla;Benacazón;assistance institution;Misericordia de Sevilla;holm oak;53.0
+1749;Dehesa de Espechilla;Dehesa de Espechilla;3.732.809.507;-6.333.664.706;Sevilla;Huévar;ecclesiastic;Catedral de Sevilla;holm oak;50.0
+1749;Dehesa de Lerena;Dehesa de Lerena;3.734.130.743;-6.341.364.825;Sevilla;Huévar;noble estate;Marqués de La Fuente;holm oak;25.0
+1749;Dehesa de Robaina;Cerro de Robaina;3.733.060.686;-6.287.491.349;Sevilla;Pilas;ecclesiastic;Orden de Malta;holm oak;60.0
+1749;Dehesa de Santillán;Santillán;3.731.953.845;-633.393.354;Sevilla;Pilas;noble estate;Marqués de Dos Hermanas;holm oak;10.0
+1749;Dehesa de Chillas;Cortijo de Chillas;3.726.177.391;-6.279.890.135;Sevilla;Villamanrique de la Condesa;noble estate;Marqués de Astorga;holm oak;19.0
+1749;Dehesa de Gato;Gato;3.724.566.317;-6.343.690.193;Sevilla;Villamanrique de la Condesa;noble estate;Marqués de Astorga;holm oak;32.0
+1749;El Caosso;El Cadoso;374.641.822;-5.777.096.847;Sevilla;Carmona;private, noble estate;Pedro Morales, Marqués de Caozo;pine;6.0
+1749;El Corso;El Corzo;374.866.467.494;-5.803.431.895;Sevilla;Carmona;noble estate;Duquesa de Veraguas;pine;14.0
+1749;Zelada;La Celada;3.746.463.175;-5.796.715.643;Sevilla;Carmona;private;Ana Barrientos;pine;2.0
+1749;Mojin;La Mohína;3.743.215.415;-5.807.149.524;Sevilla;Carmona;private;María Lamilla;pine;1.0
+1749;Pinal de la Plata;La Plata;375.266.144.815;-57.609.621.971;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;7.0
+1749;Las Corchas;Las Corchas;374.218.264.322;-57.814.142.394;Sevilla;Carmona;private;Fernando Barrientos;pine;5.0
+1749;Los Graneros;Los Graneros;374.331.025.143;-57.765.013.568;Sevilla;Carmona;private;Juan de Lamilla;pine;1.0
+1749;Olivares;Los Olivos;3.741.264.272;-5.526.074.842;Sevilla;Carmona;private;Antonio Quintanilla;pine;2.0
+1749;Ventanas;Los Ventanales;3.745.082.359;-5.725.885.122;Sevilla;Carmona;private;Manuel Morillo;pine;2.0
+1749;Miraflores;Miraflores;3.745.199.325;-58.184.093.499;Sevilla;Carmona;private;Fernando Barba, Martín Barba;pine;7.0
+1749;Menina;Medina;3.745.966.867;-5.785.615.542;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;5.0
+1749;Palma Gallarda;Palma Gallarda;374.431.059.806;-57.419.546.468;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;9.0
+1749;Pozo del Zierbo;Pozo Dulce;3.731.678.763;-5.658.763.921;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;4.0
+1749;Suerte del Saltillo;Suerte del Marqués;373.229.186.595;-5.645.843.549;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;17.0
+1749;Villa Gordo;Villa Gordo;374.291.366.388;-57.322.610.013;Sevilla;Carmona;private, ecclesiastic;Widow of Miguel Lamilla, Compañía de Jesus;pine;98.0
+1749;Suerte de Quintanilla;Quintanilla;373.662.699.423;-58.471.434.501;Sevilla;Alcalá de Guadaíra;noble estate;Marqués de Saltillo;pine;22.0
+1749;Linde de Remuñana;Dehesa de Remuñana;3.729.350.437;-6.545.288.959;Huelva;Bollullos Par del Condado;private;undefined;holm oak;3.0
+1749;Genis;Hacienda de Genis  ;3.735.951.484;-636.074.504;Huelva;Chucena;noble estate;Marqués de Las Torres;holm oak;14.0
+1749;Genis;Hacienda de Genis  ;3.735.951.484;-636.074.504;Huelva;Chucena;noble estate;Marqués de Las Torres;pine;56.0
+1749;Dehesa de Torralba;Hacienda de Torralba;3.737.315.932;-6.383.912.618;Huelva;Chucena;noble estate;Marqués de Torralba;holm oak;64.0
+1749;Torre de Quadros;Dehesa de Torrecuadros;3.731.127.133;-6.364.159.217;Huelva;Hinojos;noble estate, ecclesiastic;Marquesa de La Motilla, Convento de San Pablo de Sevilla;holm oak;27.0
+1749;Garruchena;Dehesa de Garruchena;3.734.288.999;-6.467.856.282;Huelva;Hinojos;noble estate;Marqués de Astorga;holm oak;12.0
+1749;Dehesa de Lerena;Dehesa de Lerena;3.734.130.743;-6.341.364.825;Sevilla;Huévar;noble estate;Marqués de La Fuente;holm oak;64.0
 1749;Umbrete;Umbrete;;;Sevilla;Umbrete;comunal;Umbrete;holm oak;65.0
 1749;Seresuela de Humbrete;undefined;;;Sevilla;Umbrete;ecclesiastic;Cardenal Infante Luis Antonio Jaime de Borbón y Farnesio;holm oak;22.0
 1749;Balzequilla;undefined;;;Sevilla;Aznalcóllar;comunal;Aznalcóllar;holm oak;88.0
-1749;Chaparral;Chaparral;37.51905466;-6.235115898;Sevilla;Aznalcóllar;comunal;Aznalcóllar;holm oak;87.0
-1749-1750;Dehesa de Alosno;Dehesa Boyal;37.55584677;-7.174164717;Huelva;Alosno;comunal;Alosno;holm oak;108.0
-1749-1750;La Tiessa;La Tiesa;37.59808806;-7.043423408;Huelva;Alosno;private;Bartolomé Velez Jurado;holm oak;104.0
-1749-1750;Dehesa de el Zerro;Dehesa de Abajo;37.71987505;-6.952026996;Huelva;El Cerro de Andévalo;comunal;El Cerro de Andévalo;holm oak;300.0
-1749-1750;Dehesa de San Bartolomé;Dehesa Boyal;37.42990547;-7.10969907;Huelva;San Bartolomé de la Torre;comunal;San Bartolomé de la Torre;holm oak;103.0
-1749-1750;Dehesa de Valberde del Camino;Dehesa de los Machos;37.5705822407;-6.733573452;Huelva;Valverde del Camino;comunal;Valverde del Camino;holm oak;599.0
+1749;Chaparral;Chaparral;3.751.905.466;-6.235.115.898;Sevilla;Aznalcóllar;comunal;Aznalcóllar;holm oak;87.0
+1749-1750;Dehesa de Alosno;Dehesa Boyal;3.755.584.677;-7.174.164.717;Huelva;Alosno;comunal;Alosno;holm oak;108.0
+1749-1750;La Tiessa;La Tiesa;3.759.808.806;-7.043.423.408;Huelva;Alosno;private;Bartolomé Velez Jurado;holm oak;104.0
+1749-1750;Dehesa de el Zerro;Dehesa de Abajo;3.771.987.505;-6.952.026.996;Huelva;El Cerro de Andévalo;comunal;El Cerro de Andévalo;holm oak;300.0
+1749-1750;Dehesa de San Bartolomé;Dehesa Boyal;3.742.990.547;-710.969.907;Huelva;San Bartolomé de la Torre;comunal;San Bartolomé de la Torre;holm oak;103.0
+1749-1750;Dehesa de Valberde del Camino;Dehesa de los Machos;375.705.822.407;-6.733.573.452;Huelva;Valverde del Camino;comunal;Valverde del Camino;holm oak;599.0
 1749-1750;Dehesa de las Cruces;undefined;;;Huelva;Villanueva de las Cruces;comunal;Villanueva de las Cruces;holm oak;300.0
-1749-1750;Dehesa de Montanina;La Montañina;37.34899709;-6.570694843;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;23.0
-1749-1750;Boyal de Vonares;Dehesas;37.2992151384;-6.675653694;Huelva;Bonares;comunal;Bonares;holm oak;147.0
-1749-1750;Dehesa de Paternina;Dehesa de Paternina;37.3331629207;-6.424401461;Huelva;Chucena;comunal;Rociana del Condado;holm oak;7.0
-1749-1750;Gradillos;Los Pradillos;37.34847845;-6.413246191;Huelva;Chucena;comunal;Chucena;holm oak;2.0
-1749-1750;Dehesa de Garruchena;Dehesa de Garruchena;37.34288999;-6.467856282;Huelva;Hinojos;noble estate;Marqués de Astorga;holm oak;5.0
-1749-1750;Dehesa de Torre de Quadros;Dehesa de Torrecuadros;37.31127133;-6.364159217;Huelva;Hinojos;noble estate;Marquesa de La Motilla;holm oak;19.0
-1749-1750;Dehesa de Luzena;Camino de la Dehesa;37.2967008702;-6.731910351;Huelva;Lucena del Puerto;comunal;Lucena del Puerto;holm oak;10.0
-1749-1750;El Bosque;El Bosque;37.3083078855;-6.712469999;Huelva;Lucena del Puerto;noble estate;Duque de Medina Sidonia;holm oak;28.0
+1749-1750;Dehesa de Montanina;La Montañina;3.734.899.709;-6.570.694.843;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;23.0
+1749-1750;Boyal de Vonares;Dehesas;372.992.151.384;-6.675.653.694;Huelva;Bonares;comunal;Bonares;holm oak;147.0
+1749-1750;Dehesa de Paternina;Dehesa de Paternina;373.331.629.207;-6.424.401.461;Huelva;Chucena;comunal;Rociana del Condado;holm oak;7.0
+1749-1750;Gradillos;Los Pradillos;3.734.847.845;-6.413.246.191;Huelva;Chucena;comunal;Chucena;holm oak;2.0
+1749-1750;Dehesa de Garruchena;Dehesa de Garruchena;3.734.288.999;-6.467.856.282;Huelva;Hinojos;noble estate;Marqués de Astorga;holm oak;5.0
+1749-1750;Dehesa de Torre de Quadros;Dehesa de Torrecuadros;3.731.127.133;-6.364.159.217;Huelva;Hinojos;noble estate;Marquesa de La Motilla;holm oak;19.0
+1749-1750;Dehesa de Luzena;Camino de la Dehesa;372.967.008.702;-6.731.910.351;Huelva;Lucena del Puerto;comunal;Lucena del Puerto;holm oak;10.0
+1749-1750;El Bosque;El Bosque;373.083.078.855;-6.712.469.999;Huelva;Lucena del Puerto;noble estate;Duque de Medina Sidonia;holm oak;28.0
 1749-1750;Dehesa de Pormedias;undefined;;;Huelva;Lucena del Puerto;comunal, ecclesiastic;Lucena del Puerto, Convento de la Luz de Lucena del Puerto;holm oak;29.0
-1749-1750;Alcornocal;Alcornocal;37.3392518123;-6.627816962;Huelva;Niebla;comunal;Niebla;holm oak;341.0
-1749-1750;Alcornocal;Alcornocal;37.3392518123;-6.627816962;Huelva;Niebla;comunal;Niebla;cork oak;66.0
-1749-1750;Ruissa;La Ruiza ;37.3431664649;-6.750567217;Huelva;Niebla;private;Francisco Cepeda;olive;43.0
-1749-1750;Vera de Pedro Cano;Vera de Pedro Cano;37.343100328;-6.620271196;Huelva;Niebla;comunal;Rociana del Condado;holm oak;13.0
-1749-1750;Dehesa de Boyar de  Rusiana;Las Vaquerizas ;37.2609626924;-6.634794511;Huelva;Rociana del Condado;comunal;Rociana del Condado;holm oak;18.0
-1749-1750;El Rosal;El Rosalejo;37.2749812157;-6.583980158;Huelva;Rociana del Condado;comunal;Rociana del Condado;holm oak;18.0
-1749-1750;Dehesa de Trigueros;Dehesa de Arriba;37.41403878;-6.829214404;Huelva;Trigueros;comunal;Trigueros;holm oak;33.0
-1749-1750;Labradillo;Los Labradillos;37.40385653;-6.851703841;Huelva;Trigueros;fallow land;Trigueros;holm oak;61.0
-1749-1750;Dehesa de Purchena;Dehesa de Purchena;37.35584015;-6.438208807;Huelva;Villalba del Alcor;noble estate;Duque de Medinacelli;holm oak;46.0
-1749-1750;Boyal de Villa Rassa;Dehesa Boyal;37.4422615636;-6.653340209;Huelva;Villarrasa;comunal;Rociana del Condado;holm oak;16.0
-1749-1750;Dehesa del Río;Dehesa de Santa María del Río;37.3961144228;-6.656436627;Huelva;Villarrasa;private;José de Monsalve;holm oak;40.0
-1749-1750;Armuña;La Almuñia;37.79039273;-6.491343082;Huelva;La Granada del Río Tinto;private;Francisco Pedrezo;holm oak;130.0
-1749-1750;Los Millares;Los Millares;37.51088547;-7.0555062836;Huelva;Gibraleón;noble estate;Duque de Béjar;holm oak;30.0
-1749-1750;Candón;Cándon;37.31795516;-6.788376931;Huelva;San Juan del Puerto;comunal;San Juan del Puerto;holm oak;13.0
-1749-1750;Toconal;El Toconal;37.3252586;-6.758507851;Huelva;San Juan del Puerto;comunal;San Juan del Puerto;holm oak;6.0
+1749-1750;Alcornocal;Alcornocal;373.392.518.123;-6.627.816.962;Huelva;Niebla;comunal;Niebla;holm oak;341.0
+1749-1750;Alcornocal;Alcornocal;373.392.518.123;-6.627.816.962;Huelva;Niebla;comunal;Niebla;cork oak;66.0
+1749-1750;Ruissa;La Ruiza ;373.431.664.649;-6.750.567.217;Huelva;Niebla;private;Francisco Cepeda;olive;43.0
+1749-1750;Vera de Pedro Cano;Vera de Pedro Cano;37.343.100.328;-6.620.271.196;Huelva;Niebla;comunal;Rociana del Condado;holm oak;13.0
+1749-1750;Dehesa de Boyar de  Rusiana;Las Vaquerizas ;372.609.626.924;-6.634.794.511;Huelva;Rociana del Condado;comunal;Rociana del Condado;holm oak;18.0
+1749-1750;El Rosal;El Rosalejo;372.749.812.157;-6.583.980.158;Huelva;Rociana del Condado;comunal;Rociana del Condado;holm oak;18.0
+1749-1750;Dehesa de Trigueros;Dehesa de Arriba;3.741.403.878;-6.829.214.404;Huelva;Trigueros;comunal;Trigueros;holm oak;33.0
+1749-1750;Labradillo;Los Labradillos;3.740.385.653;-6.851.703.841;Huelva;Trigueros;fallow land;Trigueros;holm oak;61.0
+1749-1750;Dehesa de Purchena;Dehesa de Purchena;3.735.584.015;-6.438.208.807;Huelva;Villalba del Alcor;noble estate;Duque de Medinacelli;holm oak;46.0
+1749-1750;Boyal de Villa Rassa;Dehesa Boyal;374.422.615.636;-6.653.340.209;Huelva;Villarrasa;comunal;Rociana del Condado;holm oak;16.0
+1749-1750;Dehesa del Río;Dehesa de Santa María del Río;373.961.144.228;-6.656.436.627;Huelva;Villarrasa;private;José de Monsalve;holm oak;40.0
+1749-1750;Armuña;La Almuñia;3.779.039.273;-6.491.343.082;Huelva;La Granada del Río Tinto;private;Francisco Pedrezo;holm oak;130.0
+1749-1750;Los Millares;Los Millares;3.751.088.547;-70.555.062.836;Huelva;Gibraleón;noble estate;Duque de Béjar;holm oak;30.0
+1749-1750;Candón;Cándon;3.731.795.516;-6.788.376.931;Huelva;San Juan del Puerto;comunal;San Juan del Puerto;holm oak;13.0
+1749-1750;Toconal;El Toconal;373.252.586;-6.758.507.851;Huelva;San Juan del Puerto;comunal;San Juan del Puerto;holm oak;6.0
 1749-1750;Dehesa de la Iguera;undefined;;;Sevilla;Higuera de la Sierra;comunal;Higuera de la Sierra;holm oak;64.0
 1749-1750;Santa Olaia;Santa Olalla del Cala;;;Sevilla;Santa Olalla del Cala;private;undefined;holm oak;201.0
-1749-1750;Espossas;Dehesa de las Esposas;37.78402303;-6.472098452;Huelva;Zufre;comunal;Zufre;holm oak;859.0
-1749-1750;Jaramilla;Dehesa del Jarramilla;37.76339043;-6.386596132;Huelva;Zufre;private;Estebán García;holm oak;109.0
-1749-1750;Gelo;Dehesa de Gelo;37.32097273;-6.207600172;Sevilla;Benacazón;noble estate;Marqués de Gelo;holm oak;14.0
-1749-1750;Dehesa de Collera;Collera;37.34105568;-6.308886794;Sevilla;Huévar;private;Ignacio de Castañeda;holm oak;2.0
-1749-1750;Dehesa de Lerena;Dehesa de Lerena;37.34130743;-6.341364825;Sevilla;Huévar;noble estate;Marqués de la Fuente;holm oak;7.0
-1749-1750;Dehesa de Espechilla;Dehesa de Espechilla;37.32809507;-6.333664706;Sevilla;Huévar;ecclesiastic;Catedral de Sevilla;holm oak;1.0
-1749-1750;Dehesa de Robaina;Cerro de Robaina;37.33060686;-6.287491349;Sevilla;Pilas;noble estate;Orden de Malta;holm oak;2.0
-1749-1750;Crespín;Crespín;37.48862159;-6.2129359643;Sevilla;Sanlúcar la Mayor;noble estate;Duque de Alba;holm oak;46.0
-1749-1750;Los Molares;Los Molares;37.1606158678;-5.708398002;Sevilla;Los Molares;private;Elvira Varela;pine;1.0
-1749-1750;Arroyo del Moro;Arroyo del Moro;37.1828859343;-5.801092788;Sevilla;Utrera;ecclesiastic;Convento de La Concepción;pine;1.0
-1749-1750;Arroyo del Puerco;Arroyo del Puerco;37.2144999873;-5.860097009;Sevilla;Utrera;private;Gerónimo Jiménez;pine;1.0
-1749-1750;Arroyo del Puerco;Arroyo del Puerco;37.2144999873;-5.860097009;Sevilla;Utrera;ecclesiastic;Compañía de Jesús;pine;1.0
+1749-1750;Espossas;Dehesa de las Esposas;3.778.402.303;-6.472.098.452;Huelva;Zufre;comunal;Zufre;holm oak;859.0
+1749-1750;Jaramilla;Dehesa del Jarramilla;3.776.339.043;-6.386.596.132;Huelva;Zufre;private;Estebán García;holm oak;109.0
+1749-1750;Gelo;Dehesa de Gelo;3.732.097.273;-6.207.600.172;Sevilla;Benacazón;noble estate;Marqués de Gelo;holm oak;14.0
+1749-1750;Dehesa de Collera;Collera;3.734.105.568;-6.308.886.794;Sevilla;Huévar;private;Ignacio de Castañeda;holm oak;2.0
+1749-1750;Dehesa de Lerena;Dehesa de Lerena;3.734.130.743;-6.341.364.825;Sevilla;Huévar;noble estate;Marqués de la Fuente;holm oak;7.0
+1749-1750;Dehesa de Espechilla;Dehesa de Espechilla;3.732.809.507;-6.333.664.706;Sevilla;Huévar;ecclesiastic;Catedral de Sevilla;holm oak;1.0
+1749-1750;Dehesa de Robaina;Cerro de Robaina;3.733.060.686;-6.287.491.349;Sevilla;Pilas;noble estate;Orden de Malta;holm oak;2.0
+1749-1750;Crespín;Crespín;3.748.862.159;-62.129.359.643;Sevilla;Sanlúcar la Mayor;noble estate;Duque de Alba;holm oak;46.0
+1749-1750;Los Molares;Los Molares;371.606.158.678;-5.708.398.002;Sevilla;Los Molares;private;Elvira Varela;pine;1.0
+1749-1750;Arroyo del Moro;Arroyo del Moro;371.828.859.343;-5.801.092.788;Sevilla;Utrera;ecclesiastic;Convento de La Concepción;pine;1.0
+1749-1750;Arroyo del Puerco;Arroyo del Puerco;372.144.999.873;-5.860.097.009;Sevilla;Utrera;private;Gerónimo Jiménez;pine;1.0
+1749-1750;Arroyo del Puerco;Arroyo del Puerco;372.144.999.873;-5.860.097.009;Sevilla;Utrera;ecclesiastic;Compañía de Jesús;pine;1.0
 1749-1750;Boca Dulce;undefined;;;Sevilla;Utrera;private;Lorenzo de Lana;pine;1.0
 1749-1750;Cortijera;Cortijera;;;Sevilla;Utrera;private;Gerónimo Franco;pine;2.0
-1749-1750;La Montañesa;Cortijo de la Montañesa;37.23842749;-5.842683511;Sevilla;Utrera;assistance institution;Misericordia;pine;8.0
-1749-1750;Vera Cruz;Cortijo de Veracruz;37.2318656459;-5.748497648;Sevilla;Utrera;private;Pedro Briones;pine;1.0
+1749-1750;La Montañesa;Cortijo de la Montañesa;3.723.842.749;-5.842.683.511;Sevilla;Utrera;assistance institution;Misericordia;pine;8.0
+1749-1750;Vera Cruz;Cortijo de Veracruz;372.318.656.459;-5.748.497.648;Sevilla;Utrera;private;Pedro Briones;pine;1.0
 1749-1750;El Molino;El Molino;;;Sevilla;Utrera;noble estate;Marqués de Valhermoso;pine;30
-1749-1750;La Lombarda;La Lombarda;37.1731227153;-5.74637356;Sevilla;Utrera;private;Maiorazgo de Cabrera;pine;1.0
-1749-1750;La Nobenera;La Novenera;37.1855722082;-5.735740569;Sevilla;Utrera;private;Alonso Segura;pine;1.0
-1749-1750;La Nobenera;La Novenera;37.1855722082;-5.735740569;Sevilla;Utrera;private;Cristóbal Franco;pine;1.0
-1749-1750;La Thenienta;La Tenienta;37.1937535456;-5.718035553;Sevilla;Utrera;private;Juan de Almoriña;pine;1.0
-1749-1750;Posteruelos;Posteruelos;37.2215482048;-5.725813959;Sevilla;Utrera;private;Pedro Román and other unidentified individual;pine;2.0
-1749-1750;Recuero;El Recuero;37.2168769569;-5.755221698;Sevilla;Utrera;private;Maiorazgo de Recuero;pine;1.0
-1749-1750;Recuero;El Recuero;37.2168769569;-5.755221698;Sevilla;Utrera;private;undefined;pine;1.0
-1749-1750;San Gines;San Ginés;37.2023769541;-5.815408538;Sevilla;Utrera;private, ecclesiastic;Juan Gallardo, Julio Cavaleri, Convento de Santa Clara;pine;6.0
-1749-1750;La Zierba;Hacienda de la Cierva;37.40907027;-5.758677855;Sevilla;Carmona;private;Filipe de Acosta, Maria Monsaibe, Pedro Briones;pine;5.0
+1749-1750;La Lombarda;La Lombarda;371.731.227.153;-574.637.356;Sevilla;Utrera;private;Maiorazgo de Cabrera;pine;1.0
+1749-1750;La Nobenera;La Novenera;371.855.722.082;-5.735.740.569;Sevilla;Utrera;private;Alonso Segura;pine;1.0
+1749-1750;La Nobenera;La Novenera;371.855.722.082;-5.735.740.569;Sevilla;Utrera;private;Cristóbal Franco;pine;1.0
+1749-1750;La Thenienta;La Tenienta;371.937.535.456;-5.718.035.553;Sevilla;Utrera;private;Juan de Almoriña;pine;1.0
+1749-1750;Posteruelos;Posteruelos;372.215.482.048;-5.725.813.959;Sevilla;Utrera;private;Pedro Román and other unidentified individual;pine;2.0
+1749-1750;Recuero;El Recuero;372.168.769.569;-5.755.221.698;Sevilla;Utrera;private;Maiorazgo de Recuero;pine;1.0
+1749-1750;Recuero;El Recuero;372.168.769.569;-5.755.221.698;Sevilla;Utrera;private;undefined;pine;1.0
+1749-1750;San Gines;San Ginés;372.023.769.541;-5.815.408.538;Sevilla;Utrera;private, ecclesiastic;Juan Gallardo, Julio Cavaleri, Convento de Santa Clara;pine;6.0
+1749-1750;La Zierba;Hacienda de la Cierva;3.740.907.027;-5.758.677.855;Sevilla;Carmona;private;Filipe de Acosta, Maria Monsaibe, Pedro Briones;pine;5.0
 1749-1750;Pantorilla;Pantorilla;;;Sevilla;Carmona;ecclesiastic;Cura de Santiago de Carmona;pine;4.0
 1749-1750;Monte de los Peregrinos;undefined;;;Sevilla;Carmona;noble estate;Marqués de Saltillo;pine;78.0
-1749-1750;Salvador Díaz;Salvador Díaz;37.2121213191;-5.721562284;Sevilla;Alcalá de Guadaíra;private;Canon Lazaro;pine;2.0
-1749-1750;Chaparral;El Chaparral;37.51905466;-6.235115898;Sevilla;Aznalcóllar;comunal;Aznalcóllar;holm oak;204.0
-1749-1750;Dehesa de Castillo de las Guardas;Dehesa del Castillo;37.72321973;-6.310845672;Sevilla;El Castillo de las Guardas;comunal;El Castillo de las Guardas;holm oak;1165.0
+1749-1750;Salvador Díaz;Salvador Díaz;372.121.213.191;-5.721.562.284;Sevilla;Alcalá de Guadaíra;private;Canon Lazaro;pine;2.0
+1749-1750;Chaparral;El Chaparral;3.751.905.466;-6.235.115.898;Sevilla;Aznalcóllar;comunal;Aznalcóllar;holm oak;204.0
+1749-1750;Dehesa de Castillo de las Guardas;Dehesa del Castillo;3.772.321.973;-6.310.845.672;Sevilla;El Castillo de las Guardas;comunal;El Castillo de las Guardas;holm oak;1165.0
 1749-1750;Dehesa de Algarrobo;undefined;;;Sevilla;El Garrobo;comunal;El Garrobo;holm oak;40.0
 1749-1750;Almonte;Almonte;;;Huelva;Almonte;private;Francisco Rodríguez;pine;3.0
 1749-1750;Dehesa de Torre de Palencia;undefined;;;Huelva;Huelva;undefined;undefined;holm oak;41.0
 1749-1750;Barranco;Barranco;;;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;16.0
-1749-1750;La Suerte del Valle;La Suerte;37.72025389;-6.329358355;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;17.0
-1749-1750;Los Cercados;Los Cercados;37.73347515;-6.297914018;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;16.0
-1749-1750;San Julian;Valdejulian;37.70275388;-6.471869164;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;17.0
-1749-1750;Balcargado;Valquemado ;37.74985902;-6.282946011;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;17.0
+1749-1750;La Suerte del Valle;La Suerte;3.772.025.389;-6.329.358.355;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;17.0
+1749-1750;Los Cercados;Los Cercados;3.773.347.515;-6.297.914.018;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;16.0
+1749-1750;San Julian;Valdejulian;3.770.275.388;-6.471.869.164;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;17.0
+1749-1750;Balcargado;Valquemado ;3.774.985.902;-6.282.946.011;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigário de Castilo de las Guardas;holm oak;17.0
 1749-1751;Moguer;Moguer;;;Huelva;Moguer;private;Manuel Gil;pine;36.0
 1749-1751;Almonte;Almonte;;;Huelva;Almonte;ecclesiastic;José Azevedo, peresbítero;pine;7.0
 1749-1751;Almonte;Almonte;;;Huelva;Almonte;private;Vicente García;pine;6.0
@@ -298,8 +298,8 @@
 1749-1751;Aznalcázar;Aznalcázar;;;Huelva;Aznalcázar;ecclesiastic;Monasterio de la Cartuja de Jerez;pine;88.0
 1749-1751;Aznalcázar;Aznalcázar;;;Huelva;Aznalcázar;ecclesiastic;Fabrica de la Iglesia Parroquial de San Pablo de Aznalcázar;pine;34.0
 1749-1751;Aznalcázar;Aznalcázar;;;Huelva;Aznalcázar;private;José Martinez Carmona;pine;5.0
-1749-1751;Dehesa de Venaxiar;Benajiar ;37.27200002;-6.191586913;Huelva;Bollullos de la Mitación;noble estate;Conde de Benajiar;pine;237.0
-1749-1751;Torrequemada;Torrequemada ;37.33831616;-6.1114740609;Huelva;Gelves;assistance institution;Hospicio de San Ignacio de Sevilla;pine;23.0
+1749-1751;Dehesa de Venaxiar;Benajiar ;3.727.200.002;-6.191.586.913;Sevilla;Bollullos de la Mitación;noble estate;Conde de Benajiar;pine;237.0
+1749-1751;Torrequemada;Torrequemada ;3.733.831.616;-61.114.740.609;Sevilla;Gelves;assistance institution;Hospicio de San Ignacio de Sevilla;pine;23.0
 1749-1751;Umbrete;Umbrete;;;Sevilla;Umbrete;noble estate;Duquesa de Alba;pine;219.0
 1749-1751;Utrera;Utrera;;;Sevilla;Utrera;private;Bartolomé de Albarán;pine;4.0
 1749-1751;Utrera;Utrera;;;Sevilla;Utrera;private;Rodrigo Patronato;pine;319.0
@@ -377,44 +377,44 @@
 1749-1751;Sevilla;Sevilla;;;Sevilla;Sevilla;ecclesiastic;Iglesia Patriarcal de Sevilla;holm oak;668.0
 1749-1751;Tocina;Tocina;;;Sevilla;Tocina;ecclesiastic;Orden de Malta;pine;8.0
 1749-1751;Tocina;Tocina;;;Sevilla;Tocina;ecclesiastic;Orden de Malta;holm oak;55.0
-1750;Dehesa de la Parrilla;Cortijo de la Parrilla ;37.94319167;-6.260628257;Sevilla;Cala;comunal;Cala;holm oak;100.0
+1750;Dehesa de la Parrilla;Cortijo de la Parrilla ;3.794.319.167;-6.260.628.257;Huelva;Cala;comunal;Cala;holm oak;100.0
 1750-1751;Almonte;Almonte;;;Huelva;Almonte;private;Francisco Rodríguez;pine;103.0
 1750-1751;Utrera;Utrera;;;Sevilla;Utrera;comunal;Utrera;pine;1.0
-1750-1751;Dehesa de San Bartolomé;Dehesa Boyal;37.42990547;-7.10969907;Huelva;San Bartolomé de la Torre;comunal;San Bartolomé de la Torre;holm oak;204.0
-1751;Dehesa de Alosno;Dehesa Boyal;37.55584677;-7.174164717;Huelva;Alosno;comunal;Alosno;holm oak;74.0
-1751;La Dehesa;La Dehesa;37.94324354;-6.151435889;Sevilla;El Real de la Jara;comunal;El Real de la Jara;holm oak;605.0
-1751;Dehesa de Remuñana;Dehesa de Romuñana;37.29350437;-6.545288959;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;53.0
-1751;Dehesa de Montanina;La Montañina;37.34899709;-6.570694843;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;71.0
-1751;Dehesa de Paternina;Dehesa de Paternina;37.3331629207;-6.424401461;Huelva;Chucena;noble estate;Duque de Medinacelli;holm oak;44.0
-1751;Dehesa de Garruchena;Dehesa de Garruchena;37.34288999;-6.467856282;Huelva;Hinojos;noble estate;Marquesa de Astorga;holm oak;63.0
-1751;Dehesa de Torre de Quadros;Dehesa de Torrecuadros;37.31127133;-6.364159217;Huelva;Hinojos;noble estate, ecclesiastic;Marquesa de La Motilla, Convento de San Pablo de Sevilla;holm oak;56.0
+1750-1751;Dehesa de San Bartolomé;Dehesa Boyal;3.742.990.547;-710.969.907;Huelva;San Bartolomé de la Torre;comunal;San Bartolomé de la Torre;holm oak;204.0
+1751;Dehesa de Alosno;Dehesa Boyal;3.755.584.677;-7.174.164.717;Huelva;Alosno;comunal;Alosno;holm oak;74.0
+1751;La Dehesa;La Dehesa;3.794.324.354;-6.151.435.889;Sevilla;El Real de la Jara;comunal;El Real de la Jara;holm oak;605.0
+1751;Dehesa de Remuñana;Dehesa de Romuñana;3.729.350.437;-6.545.288.959;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;53.0
+1751;Dehesa de Montanina;La Montañina;3.734.899.709;-6.570.694.843;Huelva;Bollullos Par del Condado;noble estate;Duque de Medina Sidonia;holm oak;71.0
+1751;Dehesa de Paternina;Dehesa de Paternina;373.331.629.207;-6.424.401.461;Huelva;Chucena;noble estate;Duque de Medinacelli;holm oak;44.0
+1751;Dehesa de Garruchena;Dehesa de Garruchena;3.734.288.999;-6.467.856.282;Huelva;Hinojos;noble estate;Marquesa de Astorga;holm oak;63.0
+1751;Dehesa de Torre de Quadros;Dehesa de Torrecuadros;3.731.127.133;-6.364.159.217;Huelva;Hinojos;noble estate, ecclesiastic;Marquesa de La Motilla, Convento de San Pablo de Sevilla;holm oak;56.0
 1751;Cala;Cala;;;Huelva;Cala;private;José Sánchez;holm oak;83.0
 1751;Cala;Cala;;;Huelva;Cala;ecclesiastic;Fabrica de la Iglesia de Cala;holm oak;1.0
 1751;Cala;Cala;;;Huelva;Cala;comunal;cabildo de la villa de Cala;holm oak;494.0
 1751;Cala;Cala;;;Huelva;Cala;private;Antonio Perez, María Domínguez;holm oak;21.0
 1751;Santa Olalla del Cala;Santa Olalla del Cala;;;Huelva;Santa Olalla del Cala;comunal;Santa Olalla del Cala;holm oak;851.0
-1751;Cañada;Cañada de los Charcos;37.93528427;-6.231529161;Huelva;Santa Olalla del Cala;private;undefined;holm oak;25.0
-1751;Lanchas; Las Lanchas ;37.94440482;-6.233912445;Huelva;Santa Olalla del Cala;private;undefined;holm oak;25.0
-1751;Zerro del Almendro;Cerro del Almendro;37.95291601;-6.220694519;Huelva;Santa Olalla del Cala;private;Juan de Aguilar;holm oak;40.0
-1751;Espossas;Dehesa de las Esposas;37.78402303;-6.472098452;Huelva;Zufre;comunal;Zufre;holm oak;100.0
-1751;Jarama;Dehesa del Jarama;37.74931145;-6.437916381;Huelva;Zufre;private;Pedro Parreño;holm oak;120.0
-1751;Dehesa de Aljobar;Casa de Aljóbar;37.26813159;-6.234787288;Sevilla;Aznalcázar;noble estate;Conde-Duque de Olivares;holm oak;47.0
-1751;Los Molinos;Cortijo de los Molinos;37.23657211;-6.254580439;Sevilla;Aznalcázar;noble estate;Marqués de Villa Franca;holm oak;19.0
-1751;Torres;Hacienda de Torres;37.28892244;-6.247687098;Sevilla;Aznalcázar;assistance institution;Misericordia;holm oak;22.0
-1751;Dehesa de Venacazon;La Dehesilla;37.35186627;-6.213768561;Sevilla;Benacazón;comunal;Benacazón;holm oak;10.0
-1751;Gelo;Dehesa de Gelo;37.32097273;-6.207600172;Sevilla;Benacazón;noble estate;Marqués de Gelo;holm oak;54.0
-1751;Rebujena la Alta;Rebujena Alta;37.3283165;-6.168877188;Sevilla;Bollullos de la Mitación;noble estate;Marqués de Sauzo, Marquesa de Villa Nueva del Prado;holm oak;21.0
-1751;Dehesa de Collera;Collera;37.34105568;-6.308886794;Sevilla;Huévar;private;Ignacio de Castañeda;holm oak;7.0
-1751;Dehesa de Lerena;Dehesa de Lerena;37.34130743;-6.341364825;Sevilla;Huévar;noble estate;Marqués de la Fuente;holm oak;30.0
-1751;Puñana;Dehesa de Puyana;37.30087703;-6.127715643;Sevilla;La Puebla del Río;private;Ignacio de Castañeda;holm oak;39.0
-1751;Dehesa de Robaina;Cerro de Robaina;37.33060686;-6.287491349;Sevilla;Pilas;ecclesiastic;Orden de Malta;holm oak;55.0
-1751;Dehesa de Santillan;Santillán;37.31953845;-6.33393354;Sevilla;Pilas;noble estate;Marqués de Dos Hermanas;holm oak;14.0
-1751;Lopas;Dehesa de Lopaz;37.28457871;-6.19580745;Sevilla;Umbrete;ecclesiastic;Cardenal Infante Luis Antonio Jaime de Borbón y Farnesio;holm oak;28.0
-1751;Dehesa de Chillas;Cortijo de Chilla;37.26177391;-6.279890135;Sevilla;Villamanrique de la Condesa;noble estate;Marquesa de Astorga;holm oak;17.0
-1751;Dehesa de Gato;El Gato;37.24566317;-6.343690193;Sevilla;Villamanrique de la Condesa;noble estate;Marquesa de Astorga;holm oak;8.0
-1751;Casa de Sierra;Casa Sierra;37.67020864;-6.215808466;Sevilla;El Castillo de las Guardas;comunal;El Castillo de las Guardas;holm oak;96.0
-1751;Valdíos;El Badío;37.6781994;-6.288760439;Sevilla;El Castillo de las Guardas;fallow land;El Castillo de las Guardas;holm oak;12.0
-1751;Cañuelo;El Cañuelo;37.67119374;-6.227674558;Sevilla;El Castillo de las Guardas;comunal;El Castillo de las Guardas;holm oak;26.0
-1751;La Suerte;La Suerte;37.72025389;-6.329358355;Sevilla;El Castillo de las Guardas;private;Bartolomé Rodríguez, Joaquín de Tróia, José Mabaes Ayala, Úrsula Morgas;holm oak;48.0
+1751;Cañada;Cañada de los Charcos;3.793.528.427;-6.231.529.161;Huelva;Santa Olalla del Cala;private;undefined;holm oak;25.0
+1751;Lanchas; Las Lanchas ;3.794.440.482;-6.233.912.445;Huelva;Santa Olalla del Cala;private;undefined;holm oak;25.0
+1751;Zerro del Almendro;Cerro del Almendro;3.795.291.601;-6.220.694.519;Huelva;Santa Olalla del Cala;private;Juan de Aguilar;holm oak;40.0
+1751;Espossas;Dehesa de las Esposas;3.778.402.303;-6.472.098.452;Huelva;Zufre;comunal;Zufre;holm oak;100.0
+1751;Jarama;Dehesa del Jarama;3.774.931.145;-6.437.916.381;Huelva;Zufre;private;Pedro Parreño;holm oak;120.0
+1751;Dehesa de Aljobar;Casa de Aljóbar;3.726.813.159;-6.234.787.288;Sevilla;Aznalcázar;noble estate;Conde-Duque de Olivares;holm oak;47.0
+1751;Los Molinos;Cortijo de los Molinos;3.723.657.211;-6.254.580.439;Sevilla;Aznalcázar;noble estate;Marqués de Villa Franca;holm oak;19.0
+1751;Torres;Hacienda de Torres;3.728.892.244;-6.247.687.098;Sevilla;Aznalcázar;assistance institution;Misericordia;holm oak;22.0
+1751;Dehesa de Venacazon;La Dehesilla;3.735.186.627;-6.213.768.561;Sevilla;Benacazón;comunal;Benacazón;holm oak;10.0
+1751;Gelo;Dehesa de Gelo;3.732.097.273;-6.207.600.172;Sevilla;Benacazón;noble estate;Marqués de Gelo;holm oak;54.0
+1751;Rebujena la Alta;Rebujena Alta;373.283.165;-6.168.877.188;Sevilla;Bollullos de la Mitación;noble estate;Marqués de Sauzo, Marquesa de Villa Nueva del Prado;holm oak;21.0
+1751;Dehesa de Collera;Collera;3.734.105.568;-6.308.886.794;Sevilla;Huévar;private;Ignacio de Castañeda;holm oak;7.0
+1751;Dehesa de Lerena;Dehesa de Lerena;3.734.130.743;-6.341.364.825;Sevilla;Huévar;noble estate;Marqués de la Fuente;holm oak;30.0
+1751;Puñana;Dehesa de Puyana;3.730.087.703;-6.127.715.643;Sevilla;La Puebla del Río;private;Ignacio de Castañeda;holm oak;39.0
+1751;Dehesa de Robaina;Cerro de Robaina;3.733.060.686;-6.287.491.349;Sevilla;Pilas;ecclesiastic;Orden de Malta;holm oak;55.0
+1751;Dehesa de Santillan;Santillán;3.731.953.845;-633.393.354;Sevilla;Pilas;noble estate;Marqués de Dos Hermanas;holm oak;14.0
+1751;Lopas;Dehesa de Lopaz;3.728.457.871;-619.580.745;Sevilla;Umbrete;ecclesiastic;Cardenal Infante Luis Antonio Jaime de Borbón y Farnesio;holm oak;28.0
+1751;Dehesa de Chillas;Cortijo de Chilla;3.726.177.391;-6.279.890.135;Sevilla;Villamanrique de la Condesa;noble estate;Marquesa de Astorga;holm oak;17.0
+1751;Dehesa de Gato;El Gato;3.724.566.317;-6.343.690.193;Sevilla;Villamanrique de la Condesa;noble estate;Marquesa de Astorga;holm oak;8.0
+1751;Casa de Sierra;Casa Sierra;3.767.020.864;-6.215.808.466;Sevilla;El Castillo de las Guardas;comunal;El Castillo de las Guardas;holm oak;96.0
+1751;Valdíos;El Badío;376.781.994;-6.288.760.439;Sevilla;El Castillo de las Guardas;fallow land;El Castillo de las Guardas;holm oak;12.0
+1751;Cañuelo;El Cañuelo;3.767.119.374;-6.227.674.558;Sevilla;El Castillo de las Guardas;comunal;El Castillo de las Guardas;holm oak;26.0
+1751;La Suerte;La Suerte;3.772.025.389;-6.329.358.355;Sevilla;El Castillo de las Guardas;private;Bartolomé Rodríguez, Joaquín de Tróia, José Mabaes Ayala, Úrsula Morgas;holm oak;48.0
 1751;Patronato;Patronato;;;Sevilla;El Castillo de las Guardas;ecclesiastic;Vigario de El Castillo de las Guardas;holm oak;109.0
 1751;Baldios;undefined;;;Sevilla;El Garrobo;comunal;El Garrobo;holm oak;59.0
